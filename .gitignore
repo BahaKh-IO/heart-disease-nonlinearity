@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# VS Code settings
+.vscode/
+
+# Data files (optional — add if dataset is large/private)
+# data/
+
+# Results (optional — add if you want to keep plots local)
+# results/
