@@ -269,9 +269,9 @@ Match model complexity to dataset size.
 
 ## 👤 Author
 
-**Baha Kh**
+**Baha Eddine Khantouch**
 Computer Science Engineering Student
-University Project — Machine Learning
+Research Lab Project — Machine Learning
 
 ---
 
