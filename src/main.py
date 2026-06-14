@@ -126,8 +126,7 @@ xgb_model.fit(
     verbose=False
 )
 
-print(f"Best iteration: {xgb_model.best_iteration}")
-print(f"Best test logloss: {xgb_model.best_score:.4f}")
+
 
 xgb_train_predictions = xgb_model.predict(X_train)
 xgb_test_predictions  = xgb_model.predict(X_test)
